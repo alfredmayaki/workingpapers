@@ -1,2 +1,2 @@
 # workingpapers
-A selection of Working Papers that I intend to publish
+A selection of works I intend to eventually publish
