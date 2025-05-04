@@ -1,4 +1,4 @@
-🌱 Sharing a repository to disclose early-stage independent research with the GitHub Education community and beyond.
+🌱 Disclosing a repository intended to share early-stage independent research with the GitHub Education community and beyond.
 <p>
 <br> 🙇🏿‍♂️ Much of my original intention for this repository is to progress by sharing scripts and source code.
 <p>
